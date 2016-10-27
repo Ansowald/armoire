@@ -1,0 +1,14 @@
+.box_green {
+	background-color:Green;
+}
+.box_red {
+	background-color:Red;
+}
+
+.box{
+	width : 20%;
+	float:left;
+	height:200px;
+	margin:10px;
+	text-align : center;
+}
